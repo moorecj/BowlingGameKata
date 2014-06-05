@@ -1,0 +1,9 @@
+c:\Users\cmoore\Documents\Visual Studio 2013\Projects\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\BowlingGameKata.Tests.dll
+c:\Users\cmoore\Documents\Visual Studio 2013\Projects\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\BowlingGameKata.Tests.pdb
+c:\Users\cmoore\Documents\Visual Studio 2013\Projects\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\BowlingGameKata.dll
+c:\Users\cmoore\Documents\Visual Studio 2013\Projects\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\nunit.framework.dll
+c:\Users\cmoore\Documents\Visual Studio 2013\Projects\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\BowlingGameKata.pdb
+c:\Users\cmoore\Documents\Visual Studio 2013\Projects\BowlingGameKata\BowlingGameKata.Tests\bin\Debug\nunit.framework.xml
+c:\Users\cmoore\Documents\Visual Studio 2013\Projects\BowlingGameKata\BowlingGameKata.Tests\obj\Debug\BowlingGameKata.Tests.csprojResolveAssemblyReference.cache
+c:\Users\cmoore\Documents\Visual Studio 2013\Projects\BowlingGameKata\BowlingGameKata.Tests\obj\Debug\BowlingGameKata.Tests.dll
+c:\Users\cmoore\Documents\Visual Studio 2013\Projects\BowlingGameKata\BowlingGameKata.Tests\obj\Debug\BowlingGameKata.Tests.pdb
